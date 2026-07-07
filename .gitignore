@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Checkpoints y datos generados por los notebooks
+.ipynb_checkpoints/
+datos_ejemplo/
+*.h5
+*.h5ad
+
+# Material con derechos de autor / archivos pesados (no versionar)
+Python Essentials.pdf
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
