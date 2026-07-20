@@ -17,6 +17,11 @@ datos_ejemplo/
 # Material con derechos de autor / archivos pesados (no versionar)
 Python Essentials.pdf
 
+# Evaluaciones (tareas, soluciones y proyecto) — uso interno, fuera del repo
+Evaluaciones/
+*_SOLUCION.ipynb
+*_SOLUCIÓN.ipynb
+
 # Archivos del sistema
 .DS_Store
 Thumbs.db

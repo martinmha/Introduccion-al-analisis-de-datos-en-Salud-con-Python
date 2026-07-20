@@ -10,6 +10,7 @@ Material de clases (notebooks de Jupyter) del curso **Introducción al Análisis
 | [Clase 3](Clase_3_Unidad_3.ipynb) | Unidad 3 | Trabajando con datos biomédicos: manejo básico de datos |
 | [Clase 4](Clase_4_Unidad_4.ipynb) | Unidad 4 | Preprocesamiento de datos biomédicos |
 | [Clase 5](Clase_5_Unidad_5.ipynb) | Unidad 5 | Técnicas básicas de exploración de datos (EDA) |
+| [Clase 6](Clase_6_Unidad_6.ipynb) | Unidad 6 | Visualización de datos en biomedicina |
 
 ## Cómo usar los notebooks
 
