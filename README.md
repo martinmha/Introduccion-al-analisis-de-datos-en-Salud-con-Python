@@ -13,6 +13,7 @@ Material de clases (notebooks de Jupyter) del curso **Introducción al Análisis
 | [Clase 6](Clase_6_Unidad_6.ipynb) | Unidad 6 | Visualización de datos en biomedicina |
 | [Clase 7](Clase_7_Unidad_7.ipynb) | Unidad 7 | Análisis estadístico en biomedicina |
 | [Clase 8](Clase_8_Unidad_8.ipynb) | Unidad 8 | Machine Learning en biomedicina |
+| [Clase 9](Clase_9_Unidad_9.ipynb) | Unidad 9 | Procesamiento de imágenes en investigación biomédica |
 
 ## Cómo usar los notebooks
 
