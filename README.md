@@ -4,14 +4,15 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-data-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![Clases](https://img.shields.io/badge/Clases-2--9-2ea44f)
+![Unidades](https://img.shields.io/badge/Unidades-1--4-2ea44f)
 ![Uso](https://img.shields.io/badge/Uso-educativo-blue)
 
 > **ENO4135 — Introducción al Análisis de Datos en Salud**
 > Postgrado · 10 créditos · Optativo de Profundización · 2026, Segundo Semestre
+> Pontificia Universidad Católica de Chile · Escuela de Enfermería · Profesor: **Martín Miranda**
 > Palabras clave: *ciencia de datos · Python · análisis de datos en salud*
 
-Repositorio con el **material de clases** (notebooks de Jupyter) del curso. Cada unidad combina una breve explicación con **código ejecutable** y **datos biomédicos simulados**, de modo que todos los notebooks se pueden correr de principio a fin sin archivos externos.
+Repositorio con el **material de clases** (notebooks de Jupyter) del curso, organizado en **4 unidades** según el calendario. Cada clase combina una breve explicación con **código ejecutable** y **datos biomédicos simulados**, de modo que todos los notebooks se pueden correr de principio a fin sin archivos externos.
 
 ---
 
@@ -21,22 +22,35 @@ Curso de posgrado que ofrece una **introducción aplicada al análisis de datos 
 
 A lo largo del curso, los estudiantes se familiarizan con el ecosistema de Python y sus principales librerías, aprenden a **importar, limpiar y estructurar** bases de datos biomédicas, y aplican técnicas de **bioestadística, machine learning y visualización** para interpretar resultados de manera crítica. La propuesta combina fundamentos teóricos con un enfoque práctico, promoviendo la **reproducibilidad** y la comunicación clara de hallazgos en contextos clínicos.
 
-Al finalizar, los estudiantes estarán en condiciones de **diseñar y ejecutar flujos básicos de análisis de datos biomédicos en Python**, comprendiendo tanto los aspectos técnicos como las implicancias científicas y éticas de su uso.
-
 ---
 
-## 📚 Contenido de las clases
+## 📚 Contenido por unidades
 
-| Clase | Unidad | Tema |
-|-------|--------|------|
-| [Clase 2](Clase_2_Unidad_2.ipynb) | Unidad 2 | Fundamentos de Python |
-| [Clase 3](Clase_3_Unidad_3.ipynb) | Unidad 3 | Trabajando con datos biomédicos: manejo básico de datos |
-| [Clase 4](Clase_4_Unidad_4.ipynb) | Unidad 4 | Preprocesamiento de datos biomédicos |
-| [Clase 5](Clase_5_Unidad_5.ipynb) | Unidad 5 | Técnicas básicas de exploración de datos (EDA) |
-| [Clase 6](Clase_6_Unidad_6.ipynb) | Unidad 6 | Visualización de datos en biomedicina |
-| [Clase 7](Clase_7_Unidad_7.ipynb) | Unidad 7 | Análisis estadístico en biomedicina |
-| [Clase 8](Clase_8_Unidad_8.ipynb) | Unidad 8 | Machine Learning en biomedicina |
-| [Clase 9](Clase_9_Unidad_9.ipynb) | Unidad 9 | Procesamiento de imágenes en investigación biomédica |
+### 🧱 Unidad 1 — Fundamentos y manejo de datos · *Sesiones 1–4*
+
+| Clase | Tema |
+|-------|------|
+| [Clase 1](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/1_Fundamentos_de_Python.ipynb) | Fundamentos de Python |
+| [Clase 2](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/2_Manejo_basico_de_datos.ipynb) | Manejo básico de datos biomédicos |
+| [Clase 3](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/3_Calidad_y_preparacion_de_datos.ipynb) | Calidad y preparación de datos |
+
+### 📊 Unidad 2 — Visualización y exploración de datos · *Sesiones 5–6*
+
+| Clase | Tema |
+|-------|------|
+| [Clase 1](Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/1_Visualizacion.ipynb) | Visualización de datos en biomedicina |
+| [Clase 2](Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/2_Exploracion_de_datos.ipynb) | Exploración de datos biomédicos |
+
+### 📈 Unidad 3 — Análisis estadístico y machine learning · *Sesiones 7–10*
+
+| Clase | Tema |
+|-------|------|
+| [Clase 1](Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/1_Analisis_estadistico.ipynb) | Análisis estadístico en biomedicina |
+| [Clase 2](Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/2_Machine_Learning.ipynb) | Machine Learning en biomedicina |
+
+### 🗣️ Unidad 4 — Comunicación, reproducibilidad y proyecto final · *Sesiones 11–15*
+
+*En preparación:* reproducibilidad y control de versiones (GitHub), narrativa y comunicación de resultados, y presentación del proyecto final.
 
 > 📓 Las clases están basadas en el libro *Python Essentials for Biomedical Data Analysis* (J. U. Kazi).
 
@@ -67,20 +81,20 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Instalar dependencias principales
-pip install jupyter numpy pandas scipy scikit-learn scikit-image matplotlib seaborn
+pip install jupyter numpy pandas scipy scikit-learn matplotlib seaborn
 
 # Abrir Jupyter
 jupyter notebook
 ```
 
-Luego abre cualquier `Clase_X_Unidad_X.ipynb` y ejecuta las celdas de arriba hacia abajo
+Abre el notebook de la unidad que quieras trabajar y ejecuta las celdas de arriba hacia abajo
 (**Kernel → Restart & Run All**).
 
 ---
 
 ## 🧰 Tecnologías
 
-`Python` · `Jupyter` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `SciPy` · `scikit-learn` · `scikit-image`
+`Python` · `Jupyter` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `SciPy` · `scikit-learn`
 
 ---
 
@@ -88,14 +102,18 @@ Luego abre cualquier `Clase_X_Unidad_X.ipynb` y ejecuta las celdas de arriba hac
 
 ```
 .
-├── Clase_2_Unidad_2.ipynb   →  Fundamentos de Python
-├── Clase_3_Unidad_3.ipynb   →  Manejo básico de datos
-├── Clase_4_Unidad_4.ipynb   →  Preprocesamiento
-├── Clase_5_Unidad_5.ipynb   →  Exploración de datos (EDA)
-├── Clase_6_Unidad_6.ipynb   →  Visualización
-├── Clase_7_Unidad_7.ipynb   →  Análisis estadístico
-├── Clase_8_Unidad_8.ipynb   →  Machine Learning
-├── Clase_9_Unidad_9.ipynb   →  Procesamiento de imágenes
+├── Unidad 1 - Fundamentos y manejo de datos/
+│   ├── 1_Fundamentos_de_Python.ipynb
+│   ├── 2_Manejo_basico_de_datos.ipynb
+│   └── 3_Calidad_y_preparacion_de_datos.ipynb
+├── Unidad 2 - Visualizacion y exploracion de datos/
+│   ├── 1_Visualizacion.ipynb
+│   └── 2_Exploracion_de_datos.ipynb
+├── Unidad 3 - Analisis estadistico y machine learning/
+│   ├── 1_Analisis_estadistico.ipynb
+│   └── 2_Machine_Learning.ipynb
+├── Unidad 4 - Comunicacion y reproducibilidad/   (en preparación)
+├── Bases de datos/                                (dataset NHANES 2017-2018 + diccionario)
 └── README.md
 ```
 
