@@ -26,27 +26,29 @@ A lo largo del curso, los estudiantes se familiarizan con el ecosistema de Pytho
 
 ## 📚 Contenido por unidades
 
+> 💡 **Recomendación:** usa el botón **Open in Colab** para abrir y ejecutar cada notebook en la nube (sin instalar nada). El visor de notebooks de GitHub a veces presenta un parpadeo del scroll en Chrome; abrir en Colab o [nbviewer](https://nbviewer.org/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/tree/main/) lo evita.
+
 ### 🧱 Unidad 1 — Fundamentos y manejo de datos · *Sesiones 1–4*
 
-| Clase | Tema |
-|-------|------|
-| [Clase 1](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/1_Fundamentos_de_Python.ipynb) | Fundamentos de Python |
-| [Clase 2](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/2_Manejo_basico_de_datos.ipynb) | Manejo básico de datos biomédicos |
-| [Clase 3](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/3_Calidad_y_preparacion_de_datos.ipynb) | Calidad y preparación de datos |
+| Clase | Tema | Abrir |
+|-------|------|-------|
+| [Clase 1](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/1_Fundamentos_de_Python.ipynb) | Fundamentos de Python | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/blob/main/Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/1_Fundamentos_de_Python.ipynb) |
+| [Clase 2](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/2_Manejo_basico_de_datos.ipynb) | Manejo básico de datos biomédicos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/blob/main/Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/2_Manejo_basico_de_datos.ipynb) |
+| [Clase 3](Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/3_Calidad_y_preparacion_de_datos.ipynb) | Calidad y preparación de datos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/blob/main/Unidad%201%20-%20Fundamentos%20y%20manejo%20de%20datos/3_Calidad_y_preparacion_de_datos.ipynb) |
 
 ### 📊 Unidad 2 — Visualización y exploración de datos · *Sesiones 5–6*
 
-| Clase | Tema |
-|-------|------|
-| [Clase 1](Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/1_Visualizacion.ipynb) | Visualización de datos en biomedicina |
-| [Clase 2](Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/2_Exploracion_de_datos.ipynb) | Exploración de datos biomédicos |
+| Clase | Tema | Abrir |
+|-------|------|-------|
+| [Clase 1](Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/1_Visualizacion.ipynb) | Visualización de datos en biomedicina | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/blob/main/Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/1_Visualizacion.ipynb) |
+| [Clase 2](Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/2_Exploracion_de_datos.ipynb) | Exploración de datos biomédicos | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/blob/main/Unidad%202%20-%20Visualizacion%20y%20exploracion%20de%20datos/2_Exploracion_de_datos.ipynb) |
 
 ### 📈 Unidad 3 — Análisis estadístico y machine learning · *Sesiones 7–10*
 
-| Clase | Tema |
-|-------|------|
-| [Clase 1](Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/1_Analisis_estadistico.ipynb) | Análisis estadístico en biomedicina |
-| [Clase 2](Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/2_Machine_Learning.ipynb) | Machine Learning en biomedicina |
+| Clase | Tema | Abrir |
+|-------|------|-------|
+| [Clase 1](Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/1_Analisis_estadistico.ipynb) | Análisis estadístico en biomedicina | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/blob/main/Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/1_Analisis_estadistico.ipynb) |
+| [Clase 2](Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/2_Machine_Learning.ipynb) | Machine Learning en biomedicina | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/martinmha/Introduccion-al-analisis-de-datos-en-Salud-con-Python/blob/main/Unidad%203%20-%20Analisis%20estadistico%20y%20machine%20learning/2_Machine_Learning.ipynb) |
 
 ### 🗣️ Unidad 4 — Comunicación, reproducibilidad y proyecto final · *Sesiones 11–15*
 
