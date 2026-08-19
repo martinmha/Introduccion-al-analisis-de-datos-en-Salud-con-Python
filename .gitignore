@@ -25,3 +25,6 @@ Evaluaciones/
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+
+# Notebooks de clases: se mantienen en local, NO se publican en este repo
+Unidad*/
